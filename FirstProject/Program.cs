@@ -376,7 +376,7 @@ namespace FirstProject
 
             #region Try catch finally
 
-            /*
+            
             string[] cars = { "Volvo", "BMW", "Mazda" };
 
             try
@@ -391,7 +391,7 @@ namespace FirstProject
             {
                 Console.WriteLine("Ta");
             }
-            */
+            
             #endregion
 
         }
